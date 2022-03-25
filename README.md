@@ -1,2 +1,2 @@
 # Boostrap
-Usando Bootstrap com DIO e #Rafael Galleani
+Utilizando o Boosptrap

@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2? family= Justo & family= Sarala:wght@400;700 & display=swap');
+
+.navbar {
+  background-color: #00FF7F;
+  color: #000000;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.quemSomos {
+  background-color:  #87CEEB;
+  color: #000000;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
+
+p {
+  padding-top: 30px;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.parceiros {
+  background-color: #4169E1;
+  color: #000000;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.bg-footer {
+  background-color: #DC143C;
+  color: #000000;
+  font-size: 20px;
+  font-weight: 400; 
+}
